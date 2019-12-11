@@ -96,8 +96,8 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=2;
-Typer.file="nexten.txt"; // add your own name here
+Typer.speed=3;
+Typer.file="kasia.txt"; // add your own name here
 Typer.init();
  
 var timer = setInterval("t();", 30);

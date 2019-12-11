@@ -1,0 +1,24 @@
+"<span id="k">Profile: developer</span>" <!-- sjkfhskjf -->
+
+<br>
+
+Hi. 
+
+<p>We help devs in Luxembourg find job opportunities without the hassle of going through numerous application processes.<p>
+<br>
+<p>How?<p> <!-- verylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglag -->
+<br>
+<p>It's really simple.<p><!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
+<ol>
+	<li>Create a profile</li>
+	<li>Pass our screening once</li>
+	<li>Let companies invite you for <span id="k"><strong><em>technical interviews</em></strong></span></li>
+</ol><!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
+<br>
+<p>Instead of doing an HR screening for <strong><em>every</em></strong> company, you just do it <strong><em>once!</em></strong><p>
+<br>
+<p>We also help you negotiate get the best out of your job offers.<p>
+<br>
+<p>Interested?<p>
+
+<a href="https://nexten.io/en/sign-up">Start creating your profile<a/>
