@@ -17,6 +17,12 @@ a {
 	text-decoration: none;
 }
 
+input {
+	color: #fff;
+	background-color: #000
+	text-decoration: none;
+}
+
 #a {
 	color: #E65225;
 }
