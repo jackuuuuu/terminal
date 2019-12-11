@@ -1,0 +1,11 @@
+<span id="a">welcome@nexten.io</span>:<span id="b">~</span><span id="c">$</span> cd nexten.io/<!-- laglaglaglaglaglag -->welcome
+<span id="a">welcome@nexten.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->welcome_to_nexten.txt<br/><br/>
+
+<br>
+<br>
+<br>
+
+"<span id="k">Welcome to nexten.io!</span>". <!-- sjkfhskjf -->
+
+Please chooose a profile<br>
+<a href="developer.txt">developer</a> /// <a href="employer.txt">employer</a>
