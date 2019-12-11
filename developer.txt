@@ -2,7 +2,7 @@
 
 <p>
 	Hi.	
-	We help devs in <em>Luxembourg</em> find job opportunities <em>without the hassle of going through tons of application processes.<em>
+	We help devs in <em>Luxembourg</em> find job opportunities <em>without the hassle of going through tons of application processes.</em>
 	<!-- verylonglagverylonglagverylongverylonglagverylonglagverylonglag -->
 </p>	
 <p>
