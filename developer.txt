@@ -2,8 +2,8 @@
 <span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> ./developer.sh<!-- laglaglaglaglaglag -->
 
 <p>
-	Hi.
-	We help devs in <em>Luxembourg</em> find job opportunities without the hassle of going through tons of application processes.
+	Hi.	
+	We help devs in <em>Luxembourg</em> find job opportunities <em>without the hassle of going through tons of application processes.<em>
 	<!-- verylonglagverylonglagverylongverylonglagverylonglagverylonglag -->
 </p>	
 <p>
@@ -26,5 +26,5 @@
 <!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
 	Simple, right?
+	<a href="https://nexten.io/en/sign-up" >We also have a normal website x)<a/>
 </p>
-<a href="https://nexten.io/en/sign-up" >We also have a normal website x)<a/>

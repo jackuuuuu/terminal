@@ -4,8 +4,8 @@
 <br>
 <br>
 
-"<span id="op">Welcome to nexten.io!</span>". <!-- sjkfhskjf -->
+<span id="op">Welcome to nexten.io!</span><!-- sjkfhskjf -->
 
-Please chooose a profile<br>
+Please chooose your profile<br>
 
-<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> <a href="developer.html">developer</a>/<a href="employer.html">employer</a>
+<a href="developer.html">developer</a>/<a href="employer.html">employer</a>
