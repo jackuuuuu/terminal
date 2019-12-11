@@ -25,5 +25,5 @@
 <!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
 	Simple, right?
-	<a href="https://nexten.io/en/sign-up" >We also have a normal website x)<a/>
+	<a href="https://nexten.io/en/" >We also have a normal website x)<a/>
 </p>
