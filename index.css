@@ -3,7 +3,7 @@ body {
 }
 
 #console {
-	font-family: courier, monospace;
+	font-family: IBM PLEX Mono, monospace;
 	color: #fff;
 	width:750px;
 	margin-left:auto;
@@ -13,12 +13,12 @@ body {
 }
 
 a {
-	color: #0bc;
+	color: #1EA69A;
 	text-decoration: none;
 }
 
 #a {
-	color: #0f0;
+	color: #E65225;
 }
 
 #c {
@@ -34,7 +34,7 @@ a {
 }
 
 #op{
-    	color: #888888
+    	color: #E65225
 }
 
 @keyframes change {
