@@ -2,7 +2,7 @@
 
 <p>
 	Hi.	
-	We help companies in <em>Luxembourg</em> hire developers <em>without the hassle of skimming through tons of CVs.<em>
+	We help companies in <em>Luxembourg</em> hire developers <em>without the hassle of skimming through tons of CVs.</em>
 	<!-- verylonglagverylonglagverylongverylonglagverylonglagverylonglag -->
 </p>	
 <p>
