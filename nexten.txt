@@ -9,4 +9,4 @@
 Please chooose a profile<br>
 Write developer/employer
 
-<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> <form><input type="text" style="background: #000; color: #fff;"/></form>
+<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> <form><input type="text"/></form>
