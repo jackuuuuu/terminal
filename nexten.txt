@@ -8,4 +8,4 @@
 "<span id="k">Welcome to nexten.io!</span>". <!-- sjkfhskjf -->
 
 Please chooose a profile<br>
-<a href="developer.txt">developer</a> /// <a href="employer.txt">employer</a>
+<a href="developer.html">developer</a> /// <a href="employer.html">employer</a>
