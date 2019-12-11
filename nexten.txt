@@ -1,5 +1,5 @@
 <span id="a">welcome@nexten.io</span>:<span id="b">~</span><span id="c">$</span> cd nexten.io/<!-- laglaglaglaglaglag -->welcome
-<span id="a">welcome@nexten.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->welcome_to_nexten.txt<br/><br/>
+<span id="a">welcome@nexten.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->welcome_to_nexten.txt
 
 <br>
 <br>
