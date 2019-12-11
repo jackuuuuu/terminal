@@ -1,9 +1,8 @@
 <span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> profile: developer <!-- sjkfhskjf -->
 <span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> ./developer.sh<!-- laglaglaglaglaglag -->
 
-Hi. 
-
 <p>
+	Hi.
 	We help devs in <em>Luxembourg</em> find job opportunities without the hassle of going through tons of application processes.
 	<!-- verylonglagverylonglagverylongverylonglagverylonglagverylonglag -->
 </p>	
@@ -13,16 +12,16 @@ Hi.
 <!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
 <p>
 	Instead of doing an HR screening for <strong><em>every</em></strong> company, 
-	you only do <strong><em>one</em></strong> with us.
+	you only do <strong><em>1</em></strong> with us.
 </p>
 <!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
 	If you pass,
-	companies will invite you for <span id="k"><strong><em>technical interviews</em></strong></span>
+	companies will invite you for <span id="k"><strong><em>technical interviews</em></strong></span>.
 </p>
 <!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
-	It's basically once HR interview for x opportunities.
+	It's basically 1 HR interview for x opportunities.
 </p>
 <!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
