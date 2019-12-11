@@ -8,22 +8,26 @@ Hi.
 	<!-- verylonglagverylonglagverylongverylonglagverylonglagverylonglag -->
 </p>	
 <p>
-	How? <!-- lagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglag -->It's really simple.<!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
+	How? <!-- lagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglag -->It's really simple.
 </p>
+<!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
 <p>
 	Instead of doing an HR screening for <strong><em>every</em></strong> company, 
-	you only do <strong><em>one</em></strong> with us.<!-- verylagverylonglagveerylonglag -->
+	you only do <strong><em>one</em></strong> with us.
 </p>
+<!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
 	If you pass,
-	companies will invite you for <span id="k"><strong><em>technical interviews</em></strong></span><!-- verylagverylonglagveerylonglag -->
+	companies will invite you for <span id="k"><strong><em>technical interviews</em></strong></span>
 </p>
+<!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
 	It's basically once HR interview for x opportunities.
 </p>
+<!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
 <p>
 	Simple, right?
 </p>
 <a 
-	href="https://nexten.io/en/sign-up">We also have a normal website ;)
+	href="https://nexten.io/en/sign-up">We also have a normal website x)
 <a/>
