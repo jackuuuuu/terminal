@@ -1,0 +1,25 @@
+<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> ./employer.sh<!-- laglaglaglaglaglag -->
+
+<p>
+	Hi.	
+	We help companies in <em>Luxembourg</em> hire developers <em>without the hassle of skimming through tons of CVs.<em>
+	<!-- verylonglagverylonglagverylongverylonglagverylonglagverylonglag -->
+</p>	
+<p>
+	How? <!-- lagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglag -->It's really simple.
+</p>
+<!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
+<p>
+	Instead of having to do an initial screening with every candidate, 
+	you can directly send candidates to your tech manager for a technical interview.
+</p>
+<!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
+<p>
+	We screen and qualify all our candidates via phone,
+	so you can enjoy a <span id="k"><strong><em>selection of the most compatible ones</em></strong></span>.
+</p>
+<!-- verylagverylonglagveerylonglagverylagverylonglagveerylonglagverylagverylonglagveerylonglag -->
+<p>
+	Simple, right?
+	<a href="https://nexten.io/en/sign-up" >We also have a normal website x)<a/>
+</p>
