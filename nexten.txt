@@ -7,5 +7,9 @@
 
 "<span id="k">Welcome to nexten.io!</span>". <!-- sjkfhskjf -->
 
-Please chooose a profile<br>
+<br>
+<br>
+<br>
+
+Please chooose your profile<br>
 <a href="developer.txt">developer</a> /// <a href="employer.txt">employer</a>
