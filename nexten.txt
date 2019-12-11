@@ -7,6 +7,5 @@
 "<span id="k">Welcome to nexten.io!</span>". <!-- sjkfhskjf -->
 
 Please chooose a profile<br>
-Write developer/employer
 
-<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> <form><input type="text"/></form>
+<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> <a href="developer.html">developer</a>/<a href="employer.html">employer</a>
