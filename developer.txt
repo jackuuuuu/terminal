@@ -28,6 +28,4 @@ Hi.
 <p>
 	Simple, right?
 </p>
-<a 
-	href="https://nexten.io/en/sign-up">We also have a normal website x)
-<a/>
+<a href="https://nexten.io/en/sign-up" >We also have a normal website x)<a/>
