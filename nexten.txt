@@ -1,7 +1,6 @@
-<span id="a">welcome@nexten.io</span>:<span id="b">~</span><span id="c">$</span> cd nexten.io/<!-- laglaglaglaglaglag -->welcome
-<span id="a">welcome@nexten.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->welcome_to_nexten.txt
+<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> cd /nexten.io<!-- laglaglaglaglaglag -->
+<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> ./welcome.sh!-- laglaglaglaglaglag -->
 
-<br>
 <br>
 <br>
 
@@ -9,3 +8,5 @@
 
 Please chooose a profile<br>
 <a href="developer.html">developer</a> /// <a href="employer.html">employer</a>
+
+<span id="a">nexten.io</span>:<span id="b">~</span><span id="c">$</span> <input type="text"/>
