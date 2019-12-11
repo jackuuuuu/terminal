@@ -19,7 +19,8 @@ a {
 
 input {
 	color: #fff;
-	background: #000
+	background: #000;
+	border: 0px;
 	text-decoration: none;
 }
 
