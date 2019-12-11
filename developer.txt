@@ -6,30 +6,24 @@ Hi.
 <p>
 	We help devs in <em>Luxembourg</em> find job opportunities without the hassle of going through tons of application processes.
 	<!-- verylonglagverylonglagverylongverylonglagverylonglagverylonglag -->
-</p>
-	
+</p>	
 <p>
 	How? <!-- lagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglag -->It's really simple.<!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
 </p>
-
 <p>
 	Instead of doing an HR screening for <strong><em>every</em></strong> company, 
 	you only do <strong><em>one</em></strong> with us.<!-- verylagverylonglagveerylonglag -->
 </p>
-
 <p>
-	If you pass, <br>
+	If you pass,
 	companies will invite you for <span id="k"><strong><em>technical interviews</em></strong></span><!-- verylagverylonglagveerylonglag -->
 </p>
-
 <p>
-	It's basically once HR interview for x opportunities.<br>
+	It's basically once HR interview for x opportunities.
 </p>
-
 <p>
 	Simple, right?
 </p>
-
 <a 
 	href="https://nexten.io/en/sign-up">We also have a normal website ;)
 <a/>
