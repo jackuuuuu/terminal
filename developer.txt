@@ -9,23 +9,17 @@ Hi.
 </p>
 	
 <p>
-	How?
-	<!-- lagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglag -->
-	It's really simple.
-	<!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
+	How? <!-- lagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglagverylonglag -->It's really simple.<!-- verylonglagverylonglanglagverylonglagverylonglagverylonglag -->
 </p>
 
 <p>
 	Instead of doing an HR screening for <strong><em>every</em></strong> company, 
-	<br>
-	you only do <strong><em>one</em></strong> with us.
-	<!-- verylagverylonglagveerylonglag -->
+	you only do <strong><em>one</em></strong> with us.<!-- verylagverylonglagveerylonglag -->
 </p>
 
 <p>
 	If you pass, <br>
-	companies will invite you for <span id="k"><strong><em>technical interviews</em></strong></span>
-	<!-- verylagverylonglagveerylonglag -->
+	companies will invite you for <span id="k"><strong><em>technical interviews</em></strong></span><!-- verylagverylonglagveerylonglag -->
 </p>
 
 <p>
